@@ -4,4 +4,6 @@ dist
 dist-ssr
 *.local
 # Local Netlify folder
+.netlify.toml
+.vite.config.js
 .netlify
